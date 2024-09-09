@@ -23,7 +23,7 @@
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau membutuhkan dukungan, jangan ragu untuk menghubungi kami di [email@example.com](mailto: veendyputra@gmail.com).
+Jika Anda memiliki pertanyaan atau membutuhkan dukungan, jangan ragu untuk menghubungi kami di [email@example.com](mailto:veendyputra@gmail.com).
 
 ---
 
